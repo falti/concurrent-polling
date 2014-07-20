@@ -1,6 +1,8 @@
 # Concurrent::Polling
 
-TODO: Write a gem description
+[![Build Status](https://travis-ci.org/falti/concurrent-polling.svg?branch=master)](https://travis-ci.org/falti/concurrent-polling)
+
+This is a simple library to implement polling using the concurrent-ruby gem.
 
 ## Installation
 
