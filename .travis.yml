@@ -9,5 +9,5 @@ deploy:
     secure: Dd0l16iSFErUc9ClkPfStyqMKFY1PpA1qX5+59kTwF6+3srgNiDLzlLnxxAj7ESNS5JCRSbt0URWIotRApNTz0qAdPww5radc+9y6iDtRU7OGh1N3aFJZDtYv+0gs0dzm5tQjrPBwePQOLnzN5x/3iHv9Ei1avk3cqQwoWPrhIg=
   gem: concurrent-polling
   on:
-    tags: false
+    tags: true
     repo: falti/concurrent-polling
