@@ -3,6 +3,8 @@ rvm:
 - 2.1.1
 - 2.0.0
 - jruby-head
+- jruby-19mode
+- jruby-20mode
 deploy:
   provider: rubygems
   api_key:
