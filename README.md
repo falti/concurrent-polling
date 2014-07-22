@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/falti/concurrent-polling.svg?branch=master)](https://travis-ci.org/falti/concurrent-polling)
 [![Dependency Status](https://gemnasium.com/falti/concurrent-polling.svg)](https://gemnasium.com/falti/concurrent-polling)
+[![Code Climate](https://codeclimate.com/github/falti/concurrent-polling.png)](https://codeclimate.com/github/falti/concurrent-polling)
 
 This is a simple library to implement polling using the concurrent-ruby gem.
 
